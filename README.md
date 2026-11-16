@@ -1,6 +1,4 @@
-### Hi, I'm Richard 👋
-
-I build small tools that connect my fitness apps, gadgets and homelab.
+I build tools that connect my fitness apps, health data, home-automation and gadgets, all implemented in my homelab.
 
 - 🏋️ Fitness data: Hevy, Withings, Garmin, Strava
 - ⌨️ Raycast and the Logitech MX Creative Keypad
