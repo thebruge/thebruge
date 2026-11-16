@@ -13,3 +13,6 @@ I'm based in Raleigh, NC. I build small tools that connect the apps and devices 
 
 - [withings-raycast](https://github.com/thebruge/withings-raycast): sync Withings weight, blood pressure and body composition to Garmin Connect from Raycast ([Raycast Store](https://www.raycast.com/thebruge/withings-sync))
 - [hevy-workout-creator](https://github.com/thebruge/hevy-workout-creator): build Hevy workout routines from JSON or a local web UI
+- [hevy-sync](https://github.com/thebruge/hevy-sync): background sync of Hevy workouts to Garmin Connect, merged into your watch's recording when there is one
+- [withings-sync](https://github.com/thebruge/withings-sync): background sync of Withings weight and blood pressure to Garmin Connect, adding only what's missing
+- [strava-weather-report](https://github.com/thebruge/strava-weather-report): a Cloudflare Worker that adds the weather, and how it likely affected your pace, to new Strava activities
